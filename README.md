@@ -2,6 +2,9 @@
 
 ## Competition
 
+> **Note**
+> Use the Google Classroom to submit your files.
+
 Unfortunatelly, no time to set up a Kaggle competition, so this time we will do it manually.
 
 The baseline code will be provided as `detect_pneumonia_cxr_baseline.ipynb`
