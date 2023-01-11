@@ -1,2 +1,2 @@
-# handong-bio-ai-workshop-2023Jan
-Handong Bio AI Workshop Winter 2023
+# Handong Bio-AI Workshop Winter 2023
+
