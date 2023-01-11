@@ -12,8 +12,6 @@ Open `detect_pneumonia_cxr_###.ipynb` into your Google Colab environment, update
 
 Make sure you convert `*.ipynb` into `*.pdf` and submit both files.
 
-You must include
-
 ### Submission File
 
 Zip the following files into `###.zip` where `###` is your student ID.
