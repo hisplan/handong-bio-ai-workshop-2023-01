@@ -4,7 +4,7 @@
 
 > **Note**
 >
-> Use the Google Classroom to submit your files.
+> Use Google Classroom to submit your files.
 
 Unfortunatelly, no time to set up a Kaggle competition, so this time we will do it manually.
 
